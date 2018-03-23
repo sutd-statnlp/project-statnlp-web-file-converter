@@ -37,6 +37,26 @@
         </div>
       </div>
     </section>
+    <section class="text-white mb-0" id="apps">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Desktop Apps</h2>
+        <hr class="star-dark mb-5">
+        <div class="text-center">
+          <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter-0.0.0.dmg.zip" class="btn btn-primary btn-xl btn-outline-light">
+                <i class="fa fa-download mr-2"></i>
+                MacOS
+          </a>
+          <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter-0.0.0.exe.zip" class="btn btn-primary btn-xl btn-outline-light">
+                <i class="fa fa-download mr-2"></i>
+                Windows
+          </a>
+          <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter-0.0.0-x86_64.AppImage.zip" class="btn btn-primary btn-xl btn-outline-light">
+                <i class="fa fa-download mr-2"></i>
+                Linux
+          </a>
+        </div>
+      </div>
+    </section>
   </div>
 </template>
 
