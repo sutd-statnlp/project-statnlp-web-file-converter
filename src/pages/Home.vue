@@ -42,18 +42,36 @@
         <h2 class="text-center text-uppercase text-secondary mb-0">Desktop Apps</h2>
         <hr class="star-dark mb-5">
         <div class="text-center">
-          <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter.dmg.zip" class="btn btn-primary btn-xl btn-outline-light">
+          <label>
+            <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter.dmg.zip" class="btn btn-primary btn-xl btn-outline-light">
                 <i class="fa fa-download mr-2"></i>
                 MacOS
-          </a>
-          <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter.exe.zip" class="btn btn-primary btn-xl btn-outline-light">
+            </a>
+          </label>
+          <label>
+            <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter.exe.zip" class="btn btn-primary btn-xl btn-outline-light">
                 <i class="fa fa-download mr-2"></i>
                 Windows
-          </a>
-          <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter-x86_64.zip" class="btn btn-primary btn-xl btn-outline-light">
+            </a>
+          </label>
+          <label >
+            <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/download/FileConverter-x86_64.zip" class="btn btn-primary btn-xl btn-outline-light">
                 <i class="fa fa-download mr-2"></i>
                 Linux
-          </a>
+            </a>
+          </label>
+          <label>
+            <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-mobile-file-converter/master/download/FileConverter.app.zip" class="btn btn-primary btn-xl btn-outline-light">
+                <i class="fa fa-download mr-2"></i>
+                IOS
+            </a>
+          </label>
+           <label>
+             <a href="https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-mobile-file-converter/master/download/FileConverter.apk.zip" class="btn btn-primary btn-xl btn-outline-light">
+                <i class="fa fa-download mr-2"></i>
+                Android
+            </a>
+           </label>
         </div>
       </div>
     </section>
@@ -122,5 +140,7 @@ export default {
 </script>
 
 <style scoped>
-
+  a:hover {
+    color: white;
+  }
 </style>
