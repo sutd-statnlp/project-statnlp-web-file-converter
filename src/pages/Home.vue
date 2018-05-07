@@ -39,7 +39,7 @@
     </section>
     <section class="text-white mb-0" id="apps">
       <div class="container">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Desktop Apps</h2>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Apps</h2>
         <hr class="star-dark mb-5">
         <div class="text-center">
           <label>
